@@ -3,7 +3,7 @@ const config = {
     database: "database-script",
     user : "postgres",
     password : "root",
-    port: 5500
+    port: 5432
 }
 
 export default config;
